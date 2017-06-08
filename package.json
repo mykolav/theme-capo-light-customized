@@ -1,0 +1,33 @@
+{
+	"name": "Theme-Capo-Light",
+	"displayName": "Capo-Light Theme Customized",
+	"description": "Capo-Light Theme ported from the Capo-Light TextMate Theme",
+	"version": "0.0.3",
+	"publisher": "mykola",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"homepage": "https://github.com/gerane/VSCodeThemes/blob/master/gerane.Theme-Capo-Light/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gerane/VSCodeThemes.git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Capo-Light (Customized)",
+				"uiTheme": "vs",
+				"path": "./themes/Capo-Light.tmTheme"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "41f626ca-0691-4497-ad5a-4f3c1712ead4",
+		"publisherId": "a5c25faf-bf60-4941-81b9-9a852b96c5fb",
+		"publisherDisplayName": "mykola"
+	}
+}
